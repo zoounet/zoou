@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://zou1.zoou.net/sitemap.xml

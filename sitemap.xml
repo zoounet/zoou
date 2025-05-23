@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://zou1.zoou.net/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://zou1.zoou.net/</loc>
+</url>
+<url>
+<loc>https://zou1.zoou.net/ji-lu-wo-de-meng.html</loc>
+<lastmod>2025-05-23T15:28:11+08:00</lastmod>
+<image:image>
+<image:loc>https://zou1.zoou.net/media/posts/1/gallery/Wei-Xin-Tu-Pian_20231213121646-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://zou1.zoou.net/media/posts/1/gallery/logo-thumbnail.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://zou1.zoou.net/media/posts/1/gallery/Wei-Xin-Tu-Pian_20231213121523-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://zou1.zoou.net/media/posts/1/75-1.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
