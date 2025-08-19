@@ -25,7 +25,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://zou1.zoou.net/media/posts/1/OIP.webp" alt="" width="405" height="359" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://zou1.zoou.net/media/posts/1/responsive/OIP-xs.webp 300w ,https://zou1.zoou.net/media/posts/1/responsive/OIP-sm.webp 480w ,https://zou1.zoou.net/media/posts/1/responsive/OIP-md.webp 768w"></figure>
+                <figure class="post__image"><img loading="lazy"  src="https://zou1.zoou.net/media/posts/1/OIP.webp" alt="" width="405" height="359" sizes="(max-width: 48em) 100vw, 768px" srcset="https://zou1.zoou.net/media/posts/1/responsive/OIP-xs.webp 300w ,https://zou1.zoou.net/media/posts/1/responsive/OIP-sm.webp 480w ,https://zou1.zoou.net/media/posts/1/responsive/OIP-md.webp 768w ,https://zou1.zoou.net/media/posts/1/responsive/OIP-lg.webp 1024w ,https://zou1.zoou.net/media/posts/1/responsive/OIP-xl.webp 1360w ,https://zou1.zoou.net/media/posts/1/responsive/OIP-2xl.webp 1600w"></figure>
 <p data-start="112" data-end="244">1986年，春天的阳光透过斑驳的窗棂洒进了家中的小屋。屋外的世界依然被那场大水的记忆笼罩着。尽管灾后的土地渐渐恢复了生气，但贫困的县城仍旧笼罩在一层沉闷的灰色空气中，仿佛一切都被历史的脚步所拖累。出生在这片土地上的孩子们，早早地就知道了什么叫做贫困，什么叫做挣扎。</p>
 <p data-start="246" data-end="329">小镇的传说总是在风中飘荡，仿佛每一颗沙粒中都埋藏着神秘的故事。每次老一辈的人聚在一起，都会聊起那些奇怪的民间传闻，听得人心头发毛。最有名的，是关于我身上的胎记的故事。</p>
 <p data-start="331" data-end="546">我从小就有一个特别的胎记——在胯下，正中间的位置。有一次，奶奶指着我的胯下说，那是“人参胎记”。听说这样的胎记，是极其神奇的，带着它的人注定会有不凡的命运——要么会成就大业，要么会与女人有着千丝万缕的关系。奶奶常常用她那老掉牙的方式讲着：“长大了，你要是不会骑马，那就只能骑女人了。”当时我不懂这话的深意，只是感觉脸颊热乎乎的，不敢再问下去。每当听到这番话，心里总会涌上一阵说不清的情绪，既有一丝莫名的敬畏，又有点儿说不出的羞涩。</p>
